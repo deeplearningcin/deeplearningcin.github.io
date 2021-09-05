@@ -26,6 +26,8 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Neural Architecture Search and AutoML
 * Meta-Learning, One-Shot, and Few-Shot Learning
 * Limitations and Challenges: Out-of Distribution Detection and Adversarial Robustness
+* Identificação de assinatura de odores de colônias de microrganismos usando InceptionTime
+* Hierarchical Attentional Temporal Convolutional Networks for Document Classification
 
 ## Previous projects (2020.2)
 
