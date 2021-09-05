@@ -27,6 +27,27 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Meta-Learning, One-Shot, and Few-Shot Learning
 * Limitations and Challenges: Out-of Distribution Detection and Adversarial Robustness
 
+## Previous projects (2020.2)
+
+* DenseMAP: A Denselly Connected Modularized Processing Adaptative Neural Network
+* Instance Segmentation using Mask R-CNN using Self-Attention Network as Main Object Detection Backbone
+* PictoBERT: Pictogram Prediction using Transformers
+* Hyperparameter Search Approaches for Deep Learning applied to Tabular Data: A Comparative Study
+* Aplicação Deep Learning em dados tabulares de RT-PCR para detecção mais rápida de COVID-19
+* Intrusion Detection System with TabNet
+* Multi-cue adaptive emotion recognition
+* Crop Disease Identification Using Multi-label Residual Network
+* Deep Contrastive Learning Approaches for Offline Signature Verification Problem
+* MOSNet V2: Transformer-based Objective Assessment for Voice Conversion
+* Reinforcement Learning to Soccer Skills
+* InceptionTime for Gas Classification
+* Classificação de gases mistos através de um modelo Inception Time
+* Previsão de Geração Eólica utilizando AR-Net
+* Usando a Função AM-Softmax para o Problema de Reconhecimento de Autor em Textos Manuscritos Curtos
+* Self-calibrated U-Net for Document Segmentation
+* Learning What, Where and Which to Transfer
+* Identificação de assinatura de odores de colônias de microrganismos usando InceptionTime
+
 ## Previous projects (2019.2)
 
 * KutralNet: A mobile deep model approach - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9207202'>DOI</a>
