@@ -3,7 +3,7 @@
   description: We propose signature identification of these colony odors from microorganisms using InceptionTime. The InceptionTime model is a set of models of the deep convolutional neural network, inspired by the Inception-v4 architecture.
   authors: P. J. M. Vasconcelos, D. Macêdo, L. M. Almeida, R. L. G. Neto, C. A. Benevides, C. Zanchettin, A. L. I. Oliveira
   link:
-    url: http://ieeesmc2021.org/
+    url: https://doi.org/10.1109/SMC52423.2021.9658669
     display:  IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021
   highlight: 1
   news2:
@@ -13,7 +13,7 @@
   description: We propose an integration of adversarial autoencoders and machine learning methods to perform an objective classification among three transaction types, regular, local and global anomaly. The integration consists of using the autoencoder's generated latent vectors as features for the supervised learning algorithms. 
   authors: J. C. S. Silva, D. Macêdo, C. Zanchettin, A. L. I. Oliveira, A. T. Almeida-Filho
   link:
-    url: https://www.ijcnn.org/
+    url: https://doi.org/10.1109/IJCNN52387.2021.9533313
     display:  International Joint Conference on Neural Networks, 2021
   highlight: 1
   news2:
