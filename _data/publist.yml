@@ -1,7 +1,7 @@
 - title: "Convolution Optimization in Fire Classification"
   image: IEEEACEESS_FIRE_2022.png
   description: We propose the KutralNext architecture, an efficient model for single- and multi-label fire and smoke recognition tasks.
-  authors: Angel Ayala, Bruno Fernandes, Francisco Cruz, David Macêdo and Cleber Zanchettin
+  authors: A. Ayala, B. Fernandes, F. Cruz, D. Macêdo and C. Zanchettin
   link:
     url: https://doi.org/10.1109/ACCESS.2022.3151660
     display:   IEEE Access, 2022
