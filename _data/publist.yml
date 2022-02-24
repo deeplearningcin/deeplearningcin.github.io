@@ -1,3 +1,13 @@
+- title: "Convolution Optimization in Fire Classification"
+  image: IEEEACEESS_FIRE_2022.png
+  description: We propose the KutralNext architecture, an efficient model for single- and multi-label fire and smoke recognition tasks.
+  authors: Angel Ayala, Bruno Fernandes, Francisco Cruz, David Macêdo and Cleber Zanchettin
+  link:
+    url: https://doi.org/10.1109/ACCESS.2022.3151660
+    display:   IEEE Access, 2022
+  highlight: 1
+  news2:
+  
 - title: "Identification of Microorganism Colony Odor Signature using InceptionTime"
   image: SMC_Nose_2021.png
   description: We propose signature identification of these colony odors from microorganisms using InceptionTime. The InceptionTime model is a set of models of the deep convolutional neural network, inspired by the Inception-v4 architecture.
