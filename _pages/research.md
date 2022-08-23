@@ -27,15 +27,53 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Meta-Learning, One-Shot, and Few-Shot Learning
 * Limitations and Challenges: Out-of Distribution Detection and Adversarial Robustness
 
+## Previous projects (2022.1)
+
+* Pose-oriented personal protective equipment detection
+* Geração de Arte Utilizando IA: Uma Análise Qualitativa
+* Estimação Monocular de Profundidade Utilizando MobileViT
+* Data Augmentation for Zero-Reference Deep Curve Enhancement of Images in Gray Scale and for Multiple Face Detection in Dark Images
+* Análise de Modelos Tabulares como Sistemas NIDS utilizando Agregação de Pacotes
+* Improving Human Activity Recognition Through Wearable Devices With Synthetic Data
+* Handover Mechanisms Analysis Based on Deep Learning for UAV Networks
+* Transformando pinturas de rostos em imagens realistas
+* Comparação de performance entre métodos de avaliação da qualidade de imagens
+* Improving Inference Time and Model Size of a 2D-CNN Based Intrusion Detection System for Automotive Ethernet for CPU devices
+* Estratégias de Otimização do BERT para Reconhecimento de Entidades Nomeadas na Língua Portuguesa
+* A comparison of machine learning recommendation liraries using the Steam game dataset
+* Um comparativo entre variantes do modelo LSTM na previsão de séries temporais da geração de energia eólica
+* CNN-BERT Hyperparameter Tuning in hate speech detection
+
+## Previous projects (2021.2)
+
+* DS-PTAM: um sistema SLAM com extração de características utilizando redes profundas
+* Vision Transformer (ViT) usado para Calibração Automática de Parâmetros Intrínsecos de Câmeras
+* Identifying Inconsistent Test Descriptions Using Deep Learning
+* Unsupervised Multi-View Multi-Person 3D Pose Estimation using Reprojection Error - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9207202'>DOI</a>
+* Análise da influência do espaço de cores na tarefa de Super Resolução
+* Uma abordagem utilizando aprendizagem profunda para classificação de fragmentos genômicos de vírus que infectam humanos
+* DETRAug: Adaptação de Técnica de Processamento para Object Detection (Aguardando)
+* Entanglement block optimization for quantum generative adversarial networks
+* Audio Retrieval Using Cross-Modal BERT Rerank for Natural Language Queries (acho q publicou ijcnn)
+* Avaliação do modelo Pixel2Style2Pixel (pSp) sobre imagens com baixas resoluções
+* Uma Análise Comparativa de Métodos de Aprendizagem Profunda e Rasa para Classificação de Receitas Culinárias
+* LogBERT-BiLSTM: to Detect Malicious Web Requests (publicou ICANN)
+* Previsão de vazão em diferentes localidades com um único modelo Informer
+* Aplicação do Modelo TED-net à Base de Dados LoDoPaB-CT Via Fine-Tuning
+* Detecção de commits indutores de defeitos de Software usando Transformers (Tentando Bracis 2022)
+* Revisao de redução de dimensionalidade baseada em variational autoenconders para classificação não-supervisionada de dados de alta dimensionalidade
+* Seleção e Combinação de Técnicas de Representação de Características e Classificadores para a Detecção de Fake News
+* Implementação de LSTM Univariável e Multivariável em Microcontrolador
+
 ## Previous projects (2020.2)
 
 * DenseMAP: A Denselly Connected Modularized Processing Adaptative Neural Network
 * Instance Segmentation using Mask R-CNN using Self-Attention Network as Main Object Detection Backbone
-* PictoBERT: Pictogram Prediction using Transformers
-* Hyperparameter Search Approaches for Deep Learning applied to Tabular Data: A Comparative Study
+* PictoBERT: Pictogram Prediction using Transformers - <a href='https://doi.org/10.1016/j.eswa.2022.117231'>DOI</a>
+* Hyperparameter Search Approaches for Deep Learning applied to Tabular Data: A Comparative Study - <a href='https://doi.org/10.1016/j.eswa.2022.117231'>DOI</a>
 * Aplicação Deep Learning em dados tabulares de RT-PCR para detecção mais rápida de COVID-19
 * Intrusion Detection System with TabNet
-* Multi-cue adaptive emotion recognition
+* Multi-cue adaptive emotion recognition 
 * Crop Disease Identification Using Multi-label Residual Network
 * Deep Contrastive Learning Approaches for Offline Signature Verification Problem
 * MOSNet V2: Transformer-based Objective Assessment for Voice Conversion
@@ -46,8 +84,7 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Usando a Função AM-Softmax para o Problema de Reconhecimento de Autor em Textos Manuscritos Curtos
 * Self-calibrated U-Net for Document Segmentation
 * Learning What, Where and Which to Transfer
-* Identificação de assinatura de odores de colônias de microrganismos usando InceptionTime
-* Identificação de assinatura de odores de colônias de microrganismos usando InceptionTime
+* Identificação de assinatura de odores de colônias de microrganismos usando InceptionTime - <a href='http://dx.doi.org/10.1109/smc52423.2021.9658669'>DOI</a>
 * Hierarchical Attentional Temporal Convolutional Networks for Document Classification
 
 ## Previous projects (2019.2)
@@ -60,12 +97,12 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Squeezed Deep 6DoF Pose Detection Using Knowledge Distillation - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9207459'>DOI</a>
 * Conditional GAN for missing data imputation
 * BERT-Side – Using BERT for Distantly-Supervised Neural Relation Extraction with Side Information - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9206648'>DOI</a>
-* Multiclass financial fraud detection by integrating supervised learning with adversarial autoencoders
+* Multiclass financial fraud detection by integrating supervised learning with adversarial autoencoders - <a href='http://dx.doi.org/10.1109/ijcnn52387.2021.9533313'>DOI</a>
 * Table Retrieval: Matching Articles and Web Tables
 * Personal protective equipment detection in industrial facilities using camera video streaming
 * Benchmark de Políticas de Learning Rate e Proposição de Uma Política Baseada em Decaimentos com Feedback
 * OctHU-PageScan: A Fast Fully Octave Convolutional Neural Network for image segmentation - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9206711'>DOI</a>
-* Deep Fall Detection
+* Deep Fall Detection - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9207202'>DOI</a>
 * Modelo de Regressão utilizando Redes Neurais Convolucionais aplicado a Sistemas de Potência
 * Fast Unsupervised Cyber-Attack Detection for Time Series with Generative Adversarial Networks - <a href='https://doi.org/10.1109/JIOT.2020.3024800'>DOI</a>
 * Uso do YOLO na detecção de objetos na RoboCup SPL
