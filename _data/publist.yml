@@ -1,4 +1,4 @@
-  title: "PictoBERT: Transformers for next pictogram prediction"
+- title: "PictoBERT: Transformers for next pictogram prediction"
   image: PictoBERT_ESWA_2022.jpg
   description: We present PictoBERT, an adaptation of BERT for the next pictogram prediction task. We changed the BERT’s input embeddings to allow word-sense usage instead of words, considering that a word-sense represents a pictogram better than a simple word.
   authors: J. A. Pereiraa, D. Macêdo, C. Zanchettin, A. L. I. Oliveira and R. N. Fidalgo
@@ -8,7 +8,7 @@
   highlight: 1
   news2:
   
-  title: "Multi-human Fall Detection and Localization in Videos"
+- title: "Multi-human Fall Detection and Localization in Videos"
   image: ImageUnd_2022.jpg
   description: We propose two options for the overall end-to-end trainable architectures. The first option is created using the YOLOK tracking stage with a classification stage based on the 3DCNN classification block. The second option is created by combining the YOLOK tracking stage with a classification stage.
   authors: M. E. N. Gomes, D. Macêdo, C. Zanchettin, P. S. G. Mattos-Neto and A. L. I. Oliveira
@@ -18,7 +18,7 @@
   highlight: 1
   news2:
 
-  title: "PictoBERT: Transformers for next pictogram prediction"
+- title: "PictoBERT: Transformers for next pictogram prediction"
   image: PictoBERT_ESWA_2022.jpg
   description: We present PictoBERT, an adaptation of BERT for the next pictogram prediction task. We changed the BERT’s input embeddings to allow word-sense usage instead of words, considering that a word-sense represents a pictogram better than a simple word.
   authors: J. A. Pereiraa, D. Macêdo, C. Zanchettin, A. L. I. Oliveira and R. N. Fidalgo

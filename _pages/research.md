@@ -52,12 +52,12 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Unsupervised Multi-View Multi-Person 3D Pose Estimation using Reprojection Error - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9207202'>DOI</a>
 * Análise da influência do espaço de cores na tarefa de Super Resolução
 * Uma abordagem utilizando aprendizagem profunda para classificação de fragmentos genômicos de vírus que infectam humanos
-* DETRAug: Adaptação de Técnica de Processamento para Object Detection (Aguardando)
+* DETRAug: Adaptação de Técnica de Processamento para Object Detection
 * Entanglement block optimization for quantum generative adversarial networks
-* Audio Retrieval Using Cross-Modal BERT Rerank for Natural Language Queries (acho q publicou ijcnn)
+* Audio Retrieval Using Cross-Modal BERT Rerank for Natural Language Queries 
 * Avaliação do modelo Pixel2Style2Pixel (pSp) sobre imagens com baixas resoluções
 * Uma Análise Comparativa de Métodos de Aprendizagem Profunda e Rasa para Classificação de Receitas Culinárias
-* LogBERT-BiLSTM: to Detect Malicious Web Requests (publicou ICANN)
+* LogBERT-BiLSTM: to Detect Malicious Web Requests - <a href='http://dx.doi.org/10.1109/IJCNN48605.2020.9207202'>DOI</a>
 * Previsão de vazão em diferentes localidades com um único modelo Informer
 * Aplicação do Modelo TED-net à Base de Dados LoDoPaB-CT Via Fine-Tuning
 * Detecção de commits indutores de defeitos de Software usando Transformers (Tentando Bracis 2022)
