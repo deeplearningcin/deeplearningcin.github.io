@@ -18,8 +18,9 @@ The course notes are available <a href='https://dlmacedo.com/courses/deeplearnin
 
 
 ## Grading Policy
-Seminars: 30%\\
-Course Project: 70%
+Seminars\\
+Lists\\
+Course Project
 
 ## Course Planning Schedule
 1	Course Overview\\

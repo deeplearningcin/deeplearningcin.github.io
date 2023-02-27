@@ -27,6 +27,26 @@ Our overarching goal is to gather the recent advances, ongoing developments, and
 * Meta-Learning, One-Shot, and Few-Shot Learning
 * Limitations and Challenges: Out-of Distribution Detection and Adversarial Robustness
 
+## Previous projects (2022.2)
+
+* Abordagem de Aprendizagem de Maquina para classificar por assunto as solicitações de usuários do aplicativo TJPE Atende
+* Aplicando Visual Transformers em Literatura Japonesa Classica
+* Detecção inteligente de ataques DDoS utilizando técnicas de aprendizado profundo
+* Técnicas de interpretabiliadade aplicadas à predição de séries temporais de Nowcasting
+* Tuning “Color-aware two-branch DCNN for efficient plant disease classification” to embedded systems
+* Composite Feature Selection Using Deep Ensembles
+* Rastreamento em Multiplas C  ́ ameras
+* Prediction of a Ship's Parametric Balance Using LSTM and Optimized Input Vector Space
+* Modelo de Regressao Embarcado para Calculo do Ângulo Solar Zenite
+* Detecção de Áreas em Imagens de Satélite Utilizando Segmentação Semântica
+* Séries Temporais com LSTM para dados sociais: uma análise empírica e descritiva
+* Avaliação de desempenho de uma rede neural Long Short Term Memory para previsão de preço do Bitcoin
+* Um estudo de caso sobre o uso de redes neurais com privacidade diferencial no dataset FER-2013
+* Physics-Informed Neural Network for Reliability Assessment of Multi-State Systems
+* Leveraging PETSCIIBOTS with Generative Models
+* Uma abordagem de meta-learning para inicializar o metodo FEDformer
+* Redução de Disparidade de Robustez em Deep Learning
+
 ## Previous projects (2022.1)
 
 * Pose-oriented personal protective equipment detection
