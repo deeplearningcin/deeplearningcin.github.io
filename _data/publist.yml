@@ -1,3 +1,113 @@
+- title: "Optimization Strategies for BERT-based Named Entity Recognition"
+  image: BRACIS_ModelSoup_2023.png
+  description: We evaluates the state-of-the-art NER models BiLSTM+CRF and BERT+Fine-Tunning trained on Portuguese corpora through finetuning in the legal and legislative domains.
+  authors: M. L. B. MONTEIRO, C. ZANCHETTIN
+  link:
+    url: 
+    display:   Brazilian Conference on Intelligent Systems, 2023
+  highlight: 1
+  news2:
+  
+- title: "On the Assessment of Deep Learning Models for Named Entity Recognition of Brazilian Legal Documents"
+  image: EAPIA_2023.png
+  description: We evaluates the state-of-the-art NER models BiLSTM+CRF and BERT+Fine-Tunning trained on Portuguese corpora through finetuning in the legal and legislative domains.
+  authors: H. O. ALBUQUERQUE, E. SOUZA, A. L. I OLIVEIRA, D. L. MACEDO, D. VITORIO, C. ZANCHETTIN, N. F. F. SILVA, A. C. P. L. F CARVALHO
+  link:
+    url: 
+    display:   Portuguese Conference on Artificial Intelligence, 2023
+  highlight: 1
+  news2:
+  
+- title: "Exploring the Impact of Synthetic Data on Human Activity Recognition Tasks"
+  image: INNS-DL_GAN_2023.png
+  description: We analyze the performance of three Generative Adversarial Networks (GANs) and a Diffuse model, considering fidelity, diversity, and generalization metrics. In addition, we assess the relationship between the addition of synthetic samples to the training data and the impact of imbalanced classes on the generative model in the production of synthetic samples. We also introduce a novel GAN designed to generate synthetic samples of time series data from wearable devices.
+  authors: M. D. SOUZA, C. R. SILVA JUNIOR, A. L. SANTOS, J. QUINTINO, F. Q. B. SILVA, C. ZANCHETTIN
+  link:
+    url: 
+    display:   INNS Deep Learning Innovations and Applications, 2023
+  highlight: 1
+  news2:
+  
+- title: "Learning What, Where and Which to Transfer"
+  image: IJCNN_LWWWT_2023.png
+  description: We propose a new fully convolutional network architecture based on U-Net for segmentation associated with self-calibrated convolution. 
+  authors: L. L. NOGUEIRA, F. M. DE PAULA NETO, D. L. MACEDO, A. L. I. OLIVEIRA, C. ZANCHETTIN
+  link:
+    url: 
+    display:   International Joint Conference on Neural Networks, 2023
+  highlight: 1
+  news2:
+  
+- title: "Self-Calibrated U-Net for Document Segmentation"
+  image: IJCNN_Self-Calibrated-U-Net_2023.png
+  description: We propose a new fully convolutional network architecture based on U-Net for segmentation associated with self-calibrated convolution. 
+  authors: I. R. RODRIGUES, L. G. F., SILVA, D. L. MACEDO, C. ZANCHETTIN, P. T. ENDO, D. SADOK
+  link:
+    url: 
+    display:   International Joint Conference on Neural Networks, 2023
+  highlight: 1
+  news2:
+  
+- title: "Improving Small Object Detection with DETRAug"
+  image: IJCNN_AUGMIX_2023.png
+  description: We present a novel method for enhancing the robustness of image detection models using AUGMIX. Our approach involves applying various augmentations to the input images in a stochastic manner, resulting in a single output image after all transformations have been applied.
+  authors: E. CUNHA, D. L. MACEDO, C. ZANCHETTIN
+  link:
+    url: 
+    display:   International Joint Conference on Neural Networks, 2023
+  highlight: 1
+  news2:
+  
+- title: "Detecting Malicious HTTP Requests Without Log Parser Using RequestBERT-BiLSTM"
+  image: BRACIS_requestBERT_2022.png
+  description: We present the RequestBERT-BiLSTM, a new model to detect possible HTTP request attacks without using Log Parser.
+  authors: RAMOS JUNIOR, L. S., D. L. MACEDO, A. L. I. OLIVEIRA, C. ZANCHETTIN
+  link:
+    url: https://doi.org/10.1007/978-3-031-21689-3_24
+    display:   Brazilian Conference on Intelligent Systems, 2022
+  highlight: 1
+  news2:
+  
+- title: "Training Aware Sigmoidal Optimization"
+  image: BRACIS_TASO_2022.png
+  description: We proposed the Training Aware Sigmoidal Optimizer (TASO), consisting of a two-phase automated learning rate schedule. The first phase uses a high learning rate to fast traverse the numerous saddle point, while the second phase uses a low learning rate to approach the center of the local minimum previously found slowly.
+  authors: D. L. MACEDO, P. H. D. LEUCHTENBERG, T. B. LUDERMIR, C. ZANCHETTIN
+  link:
+    url: https://doi.org/10.1007/978-3-031-21689-3_10
+    display:   Brazilian Conference on Intelligent Systems, 2022
+  highlight: 1
+  news2:
+  
+- title: "LogBERT-BiLSTM: Detecting Malicious Web Requests"
+  image: ICANN_LogBERT_2022.png
+  description: We propose a new approach to detect possible attacks on HTTP requests based on machine learning. The new model LogBERT-BiLSTM uses BERT and Bidirectional LSTMs to detect anomalies in data.
+  authors: RAMOS JUNIOR, L. S., MACEDO, A. L. I. OLIVEIRA, C. ZANCHETTIN
+  link:
+    url: https://doi.org/10.1007/978-3-031-15934-3_58
+    display:   International Conference on Artificial Neural Networks, 2022
+  highlight: 1
+  news2:
+
+- title: "An Adapted GRASP Approach for Hyperparameter Search on Deep Networks Applied to Tabular Data"
+  image: IJCNN_Grasp_2022.png
+  description: We propose a simple and effective approach based on the Greedy Randomized Adaptive Search Procedure (GRASP) algorithm that we adapt to optimize deep neural networks models.
+  authors: A. A. SILVA, A. S. XAVIER, D. L. MACEDO, A. L. I. OLIVEIRA, C. ZANCHETTIN
+  link:
+    url: https://doi.org/10.1109/IJCNN55064.2022.9892288
+    display:   International Joint Conference on Neural Networks, 2022
+  highlight: 1
+  news2:
+  
+- title: "Unsupervised Multi-view Multi-person 3D Pose Estimation Using Reprojection Error"
+  image: ICANN_3DPose_2022.png
+  description: We propose an unsupervised approach to estimating 3D human poses requiring only an off-the-shelf 2D pose estimation method and the intrinsic and extrinsic camera parameters. 
+  authors: D. W. F. SILVA; J. P. S. M. LIMA, D. L., MACEDO, C. ZANCHETTIN; D. G. F., THOMAS; H. UCHIYAMA; V. TEICHRIEB
+  link:
+    url: https://doi.org/10.1007/978-3-031-15934-3_40
+    display:   International Conference on Artificial Neural Networks, 2022
+  highlight: 1
+  news2:
+
 - title: "Multi-human Fall Detection and Localization in Videos"
   image: ImageUnd_2022.jpg
   description: We propose two options for the overall end-to-end trainable architectures. The first option is created using the YOLOK tracking stage with a classification stage based on the 3DCNN classification block. The second option is created by combining the YOLOK tracking stage with a classification stage.
