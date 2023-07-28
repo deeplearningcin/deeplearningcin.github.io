@@ -30,7 +30,7 @@
   
 - title: "Learning What, Where and Which to Transfer"
   image: IJCNN_LWWWT_2023.png
-  description: We propose a new fully convolutional network architecture based on U-Net for segmentation associated with self-calibrated convolution. 
+  description: We propose add pixel-level information in addition to layers and channels information from the source network to guide the target network training. The idea is to use meta-networks to enhance the knowledge transfer process bridging the source and target networks, deciding which pairs of information should be matched for optimal knowledge transfer. 
   authors: L. L. NOGUEIRA, F. M. DE PAULA NETO, D. L. MACEDO, A. L. I. OLIVEIRA, C. ZANCHETTIN
   link:
     url: 
