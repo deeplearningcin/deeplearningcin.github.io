@@ -15,6 +15,12 @@ The quality of the works developed during the course is highlighted by the origi
 # Course Notes
 
 The course notes are available here:
+
+| Título | Parte | Link |
+| ------ | ----- | ---- |
+|		 |       |      |
+
+
 Deep Learning Descomplicado: Fundamentos
 (<a href='https://www.youtube.com/watch?v=hZ9xCkeFOww&t=1s'>Parte 01</a>) (<a href='https://www.youtube.com/watch?v=szUG_flr9Hs'>Parte 02</a>) (<a href='https://www.youtube.com/watch?v=xn000jHIhkY'>Parte 03</a>) (<a href='https://www.youtube.com/watch?v=GGdJrK0UmIA'>Parte 04</a>)
 
