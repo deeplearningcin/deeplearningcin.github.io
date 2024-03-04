@@ -15,6 +15,9 @@ The quality of the works developed during the course is highlighted by the origi
 # Course Notes
 
 The course notes are available here:
+* Redes Neurais Artificiais (Review)
+(<a href='https://youtu.be/X5Af__iVnAY'>Parte 01</a>) (<a href='https://youtu.be/tLk7PlcmOTc'>Parte 02</a>) (<a href='https://youtu.be/D4G98ZcoIv4'>Parte 03</a>) (<a href='https://youtu.be/DmQhBHLJ33k'>Parte 04</a>) (<a href='https://youtu.be/Nr4V1Cbi1Lk'>Parte 05</a>) (<a href='https://youtu.be/9Y6LP7kHpWU'>Parte 06</a>)
+
 * Deep Learning Descomplicado: Fundamentos
 (<a href='https://www.youtube.com/watch?v=hZ9xCkeFOww&t=1s'>Parte 01</a>) (<a href='https://www.youtube.com/watch?v=szUG_flr9Hs'>Parte 02</a>) (<a href='https://www.youtube.com/watch?v=xn000jHIhkY'>Parte 03</a>) (<a href='https://www.youtube.com/watch?v=GGdJrK0UmIA'>Parte 04</a>)
 
@@ -23,6 +26,9 @@ The course notes are available here:
 
 * Treinamento de Redes Neurais Artificiais - CNN
 (<a href='https://www.youtube.com/watch?v=aTaRi826nmM'>Parte 01</a>) (<a href='https://www.youtube.com/watch?v=-ki1mZ1Dgow'>Parte 02</a>) (<a href='https://www.youtube.com/watch?v=1h_5hozukXM'>Parte 03</a>) (<a href='https://www.youtube.com/watch?v=Ck-5QImmFjM'>Parte 04</a>) (<a href='https://www.youtube.com/watch?v=6tmpitqxWcI'>Parte 05</a>)
+
+* Otimização dos Modelos
+(<a href='https://youtu.be/AQGqjaj58EY'>Parte 01</a>) (<a href='https://youtu.be/4SZq1MqlAqc'>Parte 02</a>) (<a href='https://youtu.be/woKz_X0OV9s'>Parte 03</a>)
 
 * Arquiteturas de Redes Convolucionais - CNN
 (<a href='https://www.youtube.com/watch?v=GRN255k_9fs'>Parte 01</a>) (<a href='https://www.youtube.com/watch?v=f17CWl13ZYU'>Parte 02</a>) (<a href='https://www.youtube.com/watch?v=acIm7vo5C7M'>Parte 03</a>) (<a href='https://www.youtube.com/watch?v=jX7Y1FNLSBo&t=17s'>Parte 04</a>) (<a href='https://www.youtube.com/watch?v=7h7ScbdDIis'>Parte 05</a>)
