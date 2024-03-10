@@ -1,9 +1,29 @@
+- title: "A Semi-Supervised Autoencoder Approach for Efficient Intrusion Detection in Network Traffic"
+  image: LACCI_INTRUSION_2023.png
+  description: We perform a comparative analysis between 3 state-of-the-art key information extraction models. We assess the performance of LAMBERT, LayoutLM, and LayoutLMv2 models considering different metrics..
+  authors: A. ALMEIDA; L. GONÇALVES; C. ZANCHETTIN; B. L. D. BEZERRA
+  link:
+    url: https://doi.org/10.1109/LA-CCI58595.2023.10409491
+    display:   IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2023
+  highlight: 1
+  news2:
+  
+- title: "Evaluating Transformer-based Models in the Information Extraction of Fiscal Documents"
+  image: LACCI_FISCALDOCS_2023.png
+  description: We perform a comparative analysis between 3 state-of-the-art key information extraction models. We assess the performance of LAMBERT, LayoutLM, and LayoutLMv2 models considering different metrics..
+  authors: J. MACEDO, B. BEZERRA, E. LIMA, A. SOARES, C. LOPES AND C. ZANCHETTIN
+  link:
+    url: https://doi.org/10.1109/LA-CCI58595.2023.10409483
+    display:   IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2023
+  highlight: 1
+  news2:
+
 - title: "Optimization Strategies for BERT-based Named Entity Recognition"
   image: BRACIS_ModelSoup_2023.png
   description: We evaluates the state-of-the-art NER models BiLSTM+CRF and BERT+Fine-Tunning trained on Portuguese corpora through finetuning in the legal and legislative domains.
   authors: M. L. B. MONTEIRO, C. ZANCHETTIN
   link:
-    url: 
+    url: https://doi.org/10.1007/978-3-031-45392-2_6
     display:   Brazilian Conference on Intelligent Systems, 2023
   highlight: 1
   news2:
@@ -13,7 +33,7 @@
   description: We evaluates the state-of-the-art NER models BiLSTM+CRF and BERT+Fine-Tunning trained on Portuguese corpora through finetuning in the legal and legislative domains.
   authors: H. O. ALBUQUERQUE, E. SOUZA, A. L. I OLIVEIRA, D. L. MACEDO, D. VITORIO, C. ZANCHETTIN, N. F. F. SILVA, A. C. P. L. F CARVALHO
   link:
-    url: 
+    url: https://doi.org/10.1007/978-3-031-49011-8_8
     display:   Portuguese Conference on Artificial Intelligence, 2023
   highlight: 1
   news2:
@@ -23,7 +43,7 @@
   description: We analyze the performance of three Generative Adversarial Networks (GANs) and a Diffuse model, considering fidelity, diversity, and generalization metrics. In addition, we assess the relationship between the addition of synthetic samples to the training data and the impact of imbalanced classes on the generative model in the production of synthetic samples. We also introduce a novel GAN designed to generate synthetic samples of time series data from wearable devices.
   authors: M. D. SOUZA, C. R. SILVA JUNIOR, A. L. SANTOS, J. QUINTINO, F. Q. B. SILVA, C. ZANCHETTIN
   link:
-    url: 
+    url: https://doi.org/10.1016/j.procs.2023.08.203
     display:   INNS Deep Learning Innovations and Applications, 2023
   highlight: 1
   news2:
@@ -33,7 +53,7 @@
   description: We propose add pixel-level information in addition to layers and channels information from the source network to guide the target network training. The idea is to use meta-networks to enhance the knowledge transfer process bridging the source and target networks, deciding which pairs of information should be matched for optimal knowledge transfer. 
   authors: L. L. NOGUEIRA, F. M. DE PAULA NETO, D. L. MACEDO, A. L. I. OLIVEIRA, C. ZANCHETTIN
   link:
-    url: 
+    url: https://doi.org/10.1109/IJCNN54540.2023.10191815
     display:   International Joint Conference on Neural Networks, 2023
   highlight: 1
   news2:
@@ -43,7 +63,7 @@
   description: We propose a new fully convolutional network architecture based on U-Net for segmentation associated with self-calibrated convolution. 
   authors: I. R. RODRIGUES, L. G. F., SILVA, D. L. MACEDO, C. ZANCHETTIN, P. T. ENDO, D. SADOK
   link:
-    url: 
+    url: https://doi.org/10.1109/IJCNN54540.2023.10191628
     display:   International Joint Conference on Neural Networks, 2023
   highlight: 1
   news2:
@@ -53,7 +73,7 @@
   description: We present a novel method for enhancing the robustness of image detection models using AUGMIX. Our approach involves applying various augmentations to the input images in a stochastic manner, resulting in a single output image after all transformations have been applied.
   authors: E. CUNHA, D. L. MACEDO, C. ZANCHETTIN
   link:
-    url: 
+    url: https://doi.org/10.1109/IJCNN54540.2023.10191541
     display:   International Joint Conference on Neural Networks, 2023
   highlight: 1
   news2:
