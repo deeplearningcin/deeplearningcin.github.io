@@ -1,3 +1,23 @@
+- title: "Explainable AI For the Brazilian Stock Market Index: A Post-Hoc Approach to Deep Learning Models in Time-Series Forecasting"
+  image: NATURE_AGE_ESTIMATION_2024.png
+  description: We use Deep Learning to forecast the Ibovespa, striving to balance high forecasting accuracy with model interpretability, to improve decision-making in time-series forecasting and provide valuable insights into the economic landscape of Brazil...
+  authors:  W. OLIVEIRA; M. A. SANTOS; C. A. A. P. BURGARDT; M. L. A. PONTUAL; C. ZANCHETTIN
+  link:
+    url:  https://doi.org/10.1038/s41598-024-70621-1
+    display: Nature Scientific Reports, 2024
+  highlight: 1
+  news2:
+  
+- title: "Explainable AI For the Brazilian Stock Market Index: A Post-Hoc Approach to Deep Learning Models in Time-Series Forecasting"
+  image: ENIAC_XAI_2024.png
+  description: We use Deep Learning to forecast the Ibovespa, striving to balance high forecasting accuracy with model interpretability, to improve decision-making in time-series forecasting and provide valuable insights into the economic landscape of Brazil...
+  authors: L. R. A. MORAIS; G. A. M. FRAGOSO; T. B. LUDERMIR; C. L. A. MONTEIRO
+  link:
+    url: https://doi.org/10.5753/eniac.2024.244444
+    display:   Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2024
+  highlight: 1
+  news2:
+  
 - title: "A Semi-Supervised Autoencoder Approach for Efficient Intrusion Detection in Network Traffic"
   image: LACCI_INTRUSION_2023.png
   description: We perform a comparative analysis between 3 state-of-the-art key information extraction models. We assess the performance of LAMBERT, LayoutLM, and LayoutLMv2 models considering different metrics..
